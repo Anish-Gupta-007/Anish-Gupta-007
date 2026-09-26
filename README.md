@@ -13,7 +13,7 @@
 - 📊 Growing focus on **analytics & tracking** — GA4, Google Tag Manager, Meta Pixel
 - 🎓 BCA graduate, planning MCA in Hyderabad alongside full-time dev work
 - 🛠️ I use AI coding tools (Antigravity) for implementation, and lean on strategy/planning tools for architecture and code review before shipping
-- 📫 Open to full-stack roles — reach me at **[your email here]**
+- 📫 Open to full-stack roles — reach me at **anishprogtrammer007@gmail.com**
 
 ---
 
